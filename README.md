@@ -21,7 +21,7 @@ git clone https://github.com/juanstenico/introduccion-nodejs
 Ingresar a la carpeta del proyecto:
 
 ```bash
-cd 
+cd introducción-nodejs
 ```
 
 ## Cómo ejecutar el proyecto
