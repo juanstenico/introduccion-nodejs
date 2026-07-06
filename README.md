@@ -10,6 +10,7 @@ El objetivo es crear un primer programa utilizando Node.js, mostrando un mensaje
 
 - app.js
 - mensaje.js
+- package.json
 - README.md
 
 ## Cómo clonar el repositorio
