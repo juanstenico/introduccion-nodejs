@@ -15,13 +15,13 @@ El objetivo es crear un primer programa utilizando Node.js, mostrando un mensaje
 ## Cómo clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git clone https://github.com/juanstenico/introduccion-nodejs
 ```
 
 Ingresar a la carpeta del proyecto:
 
 ```bash
-cd TU-REPOSITORIO
+cd 
 ```
 
 ## Cómo ejecutar el proyecto
